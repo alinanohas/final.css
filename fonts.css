@@ -1,0 +1,16 @@
+@font-face{
+    font-family:"league-gothic" ;
+    src: url(Fonts/league-gothic/LeagueGothic-Regular.otf);
+}
+@font-face{
+    font-family:"Open_Sans";
+    src: url(Fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family:"OpenSans-Light";
+    src: url(Fonts/Open_Sans/OpenSans-Light.ttf);
+}
+@font-face{
+    font-family:"OpenSans-ExtraBold";
+    src: url(Fonts/Open_Sans/OpenSans-ExtraBold.ttf);
+}
